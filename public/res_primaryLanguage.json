@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Álvaro Hurtado. I am full stack developer and engineer with more than 4 years developing complete systems using NodeJS, ReactJS and Flutter",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Control Tower",
+        "startDate": "2021",
+        "description": "Control Tower by On The Fly is an easy to use management app that helps you run your business while being on the fly.  Fully connect to the On The Fly POS softwares, it allows you to manage your business by  giving you the tools to track your sales, manage employee hours and system access, manage inventory and even manager menus or offerings from your device.  Changes on the mobile app can be reflected on all your POS - its that simple.  This app was created to move at the speed of business and allow you to manage your store where ever you are.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://apps.apple.com/us/app/otf-control-tower/id1561391924",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "Flutter"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "NodeJS"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "MySQL"
           }
         ]
       },

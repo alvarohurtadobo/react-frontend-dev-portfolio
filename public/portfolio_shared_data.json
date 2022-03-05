@@ -1,35 +1,35 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Álvaro Rubén Hurtado Maldonado",
+      "titles": [ "Full-stack Developer", "Electronics Engineer", "Dev Team lead", "Flutter App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/alvarohurtadobo",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/alvarohurtadobo/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "Flutter",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "NodeJS",
           "class": "devicon-css3-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "NestJS",
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
@@ -44,17 +44,17 @@
           "level": "70"
         },
         {
-          "name": "Sass",
+          "name": "ReactJS",
           "class": "devicon-sass-original",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
+          "name": "Python",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
+          "name": "AWS",
           "class": "devicon-csharp-plain",
           "level": "65"
         },
